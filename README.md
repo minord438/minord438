@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @minord438a
 - 
 - 
+- 
 - 👀 I’m interested in Crypto
 - 
 - 
