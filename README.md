@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-minord438/minord438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+minord438/minord438 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.asdasd
 You can click the Preview link to take a look at your changes.
 --->
