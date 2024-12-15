@@ -8,6 +8,6 @@
 asd
 <!---asdasdasdasdasdasddasddd
 minord438/minord438 is a ✨ special ✨ repository because its `README.mdd` (this file) appears on youdr GitHub profile.asdasdasd
-You can click the Preview link to take a look at your changes.asd
+You can click the Preview link to take a look at your changes.asdasd
 --->asdфывфыв
 asd
