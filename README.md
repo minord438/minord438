@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minord438
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Solana EVM
+- 🌱 I’m currently learning Solana EVMasd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...asdasdasdasdasdasdasdasdasdfasd
