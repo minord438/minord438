@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minord438
+- 👋 Hi, I’m @minord438a
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning Solana EVMasd
 - 💞️ I’m looking to collaborate on ...
